@@ -1,5 +1,6 @@
 # Computer-Organization
-
+- Instructor : Yih-Lang Li
+- Semester : 2024 Spring
 ## Lab assignment
 [Lab 1: 32-bit ALU](/Lab1)
 <br/>
